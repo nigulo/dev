@@ -2,3 +2,5 @@ Haskell/*/dist/*
 Haskell/*/.dist-buildwrapper/*
 Haskell/.metadata
 Haskell/*/.project
+Cpp/*/.*
+
