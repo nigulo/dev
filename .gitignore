@@ -3,4 +3,6 @@ Haskell/*/.dist-buildwrapper/*
 Haskell/.metadata
 Haskell/*/.project
 Cpp/*/.*
+Cpp/*/Debug/*
+Cpp/*/Release/*
 
